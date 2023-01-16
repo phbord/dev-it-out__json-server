@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "olaf",
+      "activity": "charcutier"
+    },
+    {
+      "id": 2,
+      "name": "quentin",
+      "activity": "marchand de tapis"
+    },
+    {
+      "id": 3,
+      "name": "pierre-henri",
+      "activity": "plombier"
+    }
+  ]
+}
